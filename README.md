@@ -1,4 +1,4 @@
-# v1_Save-foci-ROI-in-batch-%thr
+# v1_Save-foci-ROI-in-batch-%thr-nucleus&foci
 
 Put the macro.txt in in the folder where you have the input files.
 
